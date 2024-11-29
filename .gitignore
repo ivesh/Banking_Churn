@@ -130,6 +130,9 @@ ENV/
 env.bak/
 venv.bak/
 ann3.11/
+label_encoding.pkl
+onehot_encoder.pkl
+scalar.pkl
 
 # Spyder project settings
 .spyderproject
